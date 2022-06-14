@@ -1,0 +1,17 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1655216525041,1752,Login API,200,OK,Thread Group 1-2,text,true,,433,293,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/login,1743,0,1393
+1655216524244,3510,Login API,200,OK,Thread Group 1-1,text,true,,433,293,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/login,3510,0,2189
+1655216527757,376,Customer List,200,OK,Thread Group 1-1,text,true,,4072,378,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/list,376,0,0
+1655216526898,1445,Customer List,200,OK,Thread Group 1-2,text,true,,4072,378,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/list,1445,0,0
+1655216527024,1324,Login API,200,OK,Thread Group 1-4,text,true,,433,293,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/login,1324,0,1015
+1655216528151,309,Customer Search,200,OK,Thread Group 1-1,text,true,,370,381,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,309,0,0
+1655216528349,303,Customer Search,200,OK,Thread Group 1-2,text,true,,370,381,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,303,0,0
+1655216528351,317,Customer List,200,OK,Thread Group 1-4,text,true,,4072,378,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/list,317,0,0
+1655216528464,302,Customer Info Update,200,OK,Thread Group 1-1,text,true,,404,616,4,4,https://customer-test-api.herokuapp.com/customer/api/v1/update/101,302,0,0
+1655216528671,1324,Customer Search,200,OK,Thread Group 1-4,text,true,,370,381,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,1324,0,0
+1655216529997,308,Customer Info Update,200,OK,Thread Group 1-4,text,true,,404,616,3,3,https://customer-test-api.herokuapp.com/customer/api/v1/update/101,307,0,0
+1655216526038,5137,Login API,200,OK,Thread Group 1-3,text,true,,433,293,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/login,5137,0,4813
+1655216531176,1036,Customer List,200,OK,Thread Group 1-3,text,true,,4072,378,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/list,1036,0,0
+1655216532216,337,Customer Search,200,OK,Thread Group 1-3,text,true,,370,381,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/get/101,337,0,0
+1655216532557,308,Customer Info Update,200,OK,Thread Group 1-3,text,true,,404,616,2,2,https://customer-test-api.herokuapp.com/customer/api/v1/update/101,308,0,0
+1655216528655,9433,Customer Info Update,200,OK,Thread Group 1-2,text,true,,404,616,1,1,https://customer-test-api.herokuapp.com/customer/api/v1/update/101,9391,0,0
